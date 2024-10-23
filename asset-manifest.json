@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/IsrarAhmad/static/css/main.f0136789.css",
-    "main.js": "/IsrarAhmad/static/js/main.94e5a082.js",
+    "main.js": "/IsrarAhmad/static/js/main.f1ba83d3.js",
     "static/media/sklearn_genetic_opt.png": "/IsrarAhmad/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
     "static/media/kafkaml.png": "/IsrarAhmad/static/media/kafkaml.5ee10c15934deddbebe6.png",
     "static/media/fastapi_sklearn.png": "/IsrarAhmad/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
     "static/media/portfolio.png": "/IsrarAhmad/static/media/portfolio.565c9c29306627d2173d.png",
     "index.html": "/IsrarAhmad/index.html",
     "main.f0136789.css.map": "/IsrarAhmad/static/css/main.f0136789.css.map",
-    "main.94e5a082.js.map": "/IsrarAhmad/static/js/main.94e5a082.js.map"
+    "main.f1ba83d3.js.map": "/IsrarAhmad/static/js/main.f1ba83d3.js.map"
   },
   "entrypoints": [
     "static/css/main.f0136789.css",
-    "static/js/main.94e5a082.js"
+    "static/js/main.f1ba83d3.js"
   ]
 }
