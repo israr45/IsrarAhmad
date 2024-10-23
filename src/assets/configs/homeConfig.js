@@ -9,7 +9,7 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hello! I'm <strong className="main-name"> Israr Ahmad</strong>
         </h1>,
     titles: [
         "A Data Scientist",
